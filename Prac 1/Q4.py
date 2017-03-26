@@ -4,5 +4,5 @@ def harmonic_list(n):
         h += 1 / i
     yield h
 
-for each in harmonic_list(2):
+for each in harmonic_list(7):
     print(each)
